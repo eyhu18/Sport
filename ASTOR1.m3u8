@@ -1,7 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=2132000,AVERAGE-BANDWIDTH=2132000,CODECS="mp4a.40.2,avc1.640020",RESOLUTION=1024x576,FRAME-RATE=30.000
 #KODIPROP:inputstream.adaptive.manifest_type=HLS
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webudit.webhd.ru/lb/premium123/index.m3u8
