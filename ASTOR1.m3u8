@@ -1,4 +1,14 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=HLS
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/&User-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://webudit.webhd.ru/lb/premium123/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:3969080
+#EXT-X-TARGETDURATION:8
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:46
+#EXTINF:7.200,
+http://gamsgo.cyou:8080/umer.zia660/e7388412/146068
+#EXTINF:4.800,
+http://gamsgo.cyou:8080/umer.zia660/e7388412/146068
+#EXTINF:7.200,
+http://gamsgo.cyou:8080/umer.zia660/e7388412/146068
+#EXTINF:4.800,
+http://gamsgo.cyou:8080/umer.zia660/e7388412/146068
